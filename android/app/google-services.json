@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936761812147",
+    "project_id": "imagemania",
+    "storage_bucket": "imagemania.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936761812147:android:db4881a468659ba4be3cc6",
+        "android_client_info": {
+          "package_name": "com.example.image_mania"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm8s0yuzikuGmjdmJRpRdaIhH45FW7UXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
